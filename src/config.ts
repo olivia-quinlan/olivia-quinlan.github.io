@@ -1,7 +1,7 @@
 export const siteConfig = {
   name: "Olivia Quinlan",
-  title: "Software Professional",
-  description: "Portfolio website of Ryan Fitzgerald",
+  title: "Software Engineer",
+  description: "Portfolio website of Olivia Quinlan",
   accentColor: "#a31dd8ff",
   social: {
     email: "oliviaquinlan292@gmail.com",
@@ -68,14 +68,10 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
-      achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
-      ],
+      school: "Drexel University",
+      degree: "Bachelor of Science in Software Engineering",
+      dateRange: "2019 - 2024",
+      achievements: [],
     },
     {
       school: "Online Platform",
